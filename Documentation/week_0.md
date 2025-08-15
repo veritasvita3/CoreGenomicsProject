@@ -18,5 +18,5 @@
   
 - Created inside anaconda3, channels—'bioconda' and 'conda-forge'
   
-- Installed fastp, BWA and samtools via bioconda inside ~/anaconda3/envs/bioinformatics/
+- Installed GATK, fastp, BWA and samtools via bioconda inside ~/anaconda3/envs/bioinformatics/
 
