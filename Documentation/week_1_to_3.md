@@ -11,4 +11,4 @@
 - Downloaded CNV files via gdc-client
 - Started inspecting aberrant loci for genes 
 - Installed biomaRt on R-studio
-- Using the ensembl names of genes from particular loci, genes are [annotated](https://github.com/veritasvita3/CoreGenomicsProject/tree/main/Files/annotated_gene_list_1.xlsx using the [R script](https://github.com/veritasvita3/CoreGenomicsProject/blob/main/Scripts/cnv_gene_list_ensembl_biomart.R)
+- Using the ensembl names of genes from particular loci, genes are [annotated](https://github.com/veritasvita3/CoreGenomicsProject/tree/main/Files/annotated_gene_list_1.xlsx) using the [R script](https://github.com/veritasvita3/CoreGenomicsProject/blob/main/Scripts/cnv_gene_list_ensembl_biomart.R)
