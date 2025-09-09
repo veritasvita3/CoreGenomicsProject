@@ -1,0 +1,501 @@
+protein,cancer_types,pmids,dois
+DNA-Binding Proteins,breast cancer; carcinoma; colorectal cancer; leukemia; lung cancer; sarcoma,40889797; 40890601; 40898185; 40906433,10.1002/2056-4538.70044; 10.1136/jitc-2025-011526; 10.1186/s11658-025-00788-6; 10.1186/s12885-025-14810-9
+Proto-Oncogene Proteins p21(ras),carcinoma; colorectal cancer; lung cancer; ovarian cancer; pancreatic cancer,40890128; 40898094; 40901924; 40905865; 40913040; 40916818,10.1038/s41467-025-62350-4; 10.1038/s41598-025-17650-6; 10.1126/scitranslmed.adt5511; 10.11817/j.issn.1672-7347.2025.250026; 10.1186/s12885-025-14336-0; 10.4103/jcrt.jcrt_1869_23
+"Adaptor Proteins, Signal Transducing",carcinoma; leukemia; liver cancer; lung cancer; lymphoma,40903842; 40910271; 40911671,10.1111/jcmm.70815; 10.1126/sciadv.adt6083; 10.3892/or.2025.8982
+Programmed Cell Death 1 Receptor,breast cancer; colorectal cancer; leukemia; melanoma; ovarian cancer,40890106; 40890836; 40895577; 40905865; 40906211; 40906805,10.1007/s00262-025-04145-6; 10.1038/s41467-025-62878-5; 10.1073/pnas.2426935122; 10.1186/s13046-025-03518-0; 10.3389/fimmu.2025.1656242; 10.4103/jcrt.jcrt_1869_23
+Protein Kinase Inhibitors,carcinoma; colorectal cancer; leukemia; pancreatic cancer; sarcoma,40893054; 40897431; 40901864; 40906805,10.1073/pnas.2426935122; 10.1136/bmj-2024-082834; 10.1200/PO-25-00332; 10.1371/journal.pone.0331438
+Enzyme Inhibitors,bladder cancer; breast cancer; carcinoma; gastric cancer; lung cancer,40891362,10.1080/14756366.2025.2545620
+the key enzyme pycr1 in proline metabolism:,bladder cancer; breast cancer; carcinoma; gastric cancer; lung cancer,40891362,10.1080/14756366.2025.2545620
+Transcription Factors,breast cancer; carcinoma; colorectal cancer; lung cancer,40890601; 40897711; 40898185; 40901953; 40903842; 40911331,10.1002/ddr.70151; 10.1038/s41467-025-63687-6; 10.1111/jcmm.70815; 10.1126/sciadv.ady1289; 10.1186/s11658-025-00788-6; 10.1186/s12885-025-14810-9
+"alterations and environmental factors. in recent years, long non-c",carcinoma; colorectal cancer; gastric cancer; pancreatic cancer,40909946,10.3389/fonc.2025.1642425
+"eracting with genes, rna, and proteins to promoting the warburg eff",carcinoma; colorectal cancer; gastric cancer; pancreatic cancer,40909946,10.3389/fonc.2025.1642425
+MAP Kinase Signaling System,breast cancer; leukemia; melanoma; sarcoma,40892895; 40898325; 40906433,10.1002/2056-4538.70044; 10.1126/scisignal.adw3231; 10.1186/s12964-025-02376-9
+Proto-Oncogene Proteins,carcinoma; leukemia; lung cancer; sarcoma,40895524; 40906433,10.1002/2056-4538.70044; 10.3389/fimmu.2025.1604237
+"Antigens, Neoplasm",breast cancer; carcinoma; gastric cancer; melanoma,40890425; 40891421; 40898321; 40903191,10.1038/s41598-025-17987-y; 10.1080/2162402X.2025.2526444; 10.1136/jitc-2025-012442; 10.1186/s12951-025-03681-8
+STAT3 Transcription Factor,carcinoma; leukemia; lung cancer; lymphoma,40895526; 40901755,10.1002/jbt.70486; 10.3389/fimmu.2025.1632803
+"Hypoxia-Inducible Factor 1, alpha Subunit",carcinoma; lung cancer; ovarian cancer; prostate cancer,40890129; 40901248; 40901472,10.1038/s41419-025-07886-5; 10.2147/IJN.S531571; 10.3389/fimmu.2025.1467357
+Membrane Proteins,carcinoma; lung cancer; melanoma; skin cancer,40892691; 40897749,10.1038/s41597-025-05807-x; 10.1096/fj.202501354R
+"properties. l-mimosine, a non-protein amino acid derived from the s",breast cancer; lung cancer; melanoma; sarcoma,40890736,10.1186/s12906-025-04905-y
+transcriptomics and t/b cell receptor analyses  reveal early on-tre,breast cancer; carcinoma; lung cancer; melanoma,40890155,10.1038/s41467-025-63538-4
+"analyze cd63, a cell surface protein that has been associated with",lung cancer; melanoma; prostate cancer,40916710,10.14670/HH-18-981
+B7-H1 Antigen,breast cancer; carcinoma; lung cancer,40895529; 40898094; 40898159; 40903297; 40908570; 40916533,10.1002/cam4.71191; 10.1186/s12885-025-14336-0; 10.1186/s12885-025-14779-5; 10.12122/j.issn.1673-4254.2025.08.16; 10.1272/jnms.JNMS.2025_92-405; 10.3389/fimmu.2025.1641254
+known. ferroptosis suppressor protein (fsp1) is a glutathione-indep,carcinoma; colorectal cancer; renal cell carcinoma,40914768,10.1038/s41388-025-03562-2
+Proto-Oncogene Proteins c-bcl-2,carcinoma; melanoma; ovarian cancer,40898663; 40913040,10.1038/s41598-025-17650-6; 10.1111/exd.70164
+Adenomatous Polyposis Coli Protein,carcinoma; colorectal cancer; gastric cancer,40911118,10.1007/s10689-025-00491-7
+cin family characterized by a protein backbone with extensive glyco,colorectal cancer; gastric cancer; prostate cancer,40910251,10.3892/ijmm.2025.5629
+Ki-67 Antigen,breast cancer; carcinoma; prostate cancer,40898298; 40898467; 40900461; 40908518,10.1002/mp.17960; 10.1097/MD.0000000000044222; 10.1186/s13058-025-02114-6; 10.1590/1414-431X2025e14527
+"Receptor, ErbB-2",breast cancer; carcinoma; gastric cancer,40891579; 40891595; 40898467; 40898491; 40905870; 40908488,10.1002/cam4.71156; 10.1002/cam4.71172; 10.1097/MD.0000000000044094; 10.1097/MD.0000000000044222; 10.1186/s12957-025-03962-4; 10.4103/jcrt.jcrt_210_25
+Neoplasm Proteins,gastric cancer; melanoma; prostate cancer,40890425; 40908300,10.1038/s41392-025-02376-8; 10.1038/s41598-025-17987-y
+"we detailed the intracellular protein, dual specificity phosphatase",carcinoma; lung cancer; skin cancer,40906817,10.1158/2326-6066.CIR-25-0086
+"ed by the pattern recognition receptor, retinoic acid inducible gene",carcinoma; lung cancer; skin cancer,40906817,10.1158/2326-6066.CIR-25-0086
+"cal tn-ilc features (estrogen receptor negative, progesterone recept",breast cancer; carcinoma; gastric cancer,40904600,10.3892/ol.2025.15242
+"s, including for gata binding protein 3, villin and cytokeratin 7/2",breast cancer; carcinoma; gastric cancer,40904600,10.3892/ol.2025.15242
+BRCA1 Protein,breast cancer; carcinoma; ovarian cancer,40890782; 40891252; 40900191; 40904409,10.1002/cnr2.70335; 10.1007/s10689-025-00496-2; 10.1155/genr/5544418; 10.1186/s13063-025-09062-8
+cadherin fat1 functions as an oncogene or tumor suppressor in a cont,carcinoma; glioblastoma; pancreatic cancer,40903775,10.1186/s11658-025-00783-x
+1 functions as an oncogene or tumor suppressor in a context-dependent manner,carcinoma; glioblastoma; pancreatic cancer,40903775,10.1186/s11658-025-00783-x
+"Receptors, Chimeric Antigen",breast cancer; leukemia; lymphoma,40898409; 40903191,10.1080/16078454.2025.2550815; 10.1136/jitc-2025-012442
+Heat-Shock Proteins,breast cancer; carcinoma; colorectal cancer,40895562; 40901953,10.1126/sciadv.ady1289; 10.3389/fimmu.2025.1631031
+Vascular Endothelial Growth Factor A,carcinoma; colorectal cancer; lung cancer,40895562; 40901248,10.2147/IJN.S531571; 10.3389/fimmu.2025.1631031
+"fα), monocyte chemoattractant protein-1 (mcp-1), and insulin were m",colorectal cancer; liver cancer; lung cancer,40900641,10.1158/1055-9965.EPI-25-0342
+"beta (il-1β), tumor necrosis factor-alpha (tnfα), monocyte chemoa",colorectal cancer; liver cancer; lung cancer,40900641,10.1158/1055-9965.EPI-25-0342
+"Antigens, CD",breast cancer; melanoma; ovarian cancer,40892920; 40895577,10.1073/pnas.2503081122; 10.3389/fimmu.2025.1656242
+tors of the mitogen-activated protein kinase pathway demonstrate el,carcinoma; pancreatic cancer; sarcoma,40893054,10.1200/PO-25-00332
+al of extracellular regulated kinase inhibition alone and in combi,carcinoma; pancreatic cancer; sarcoma,40893054,10.1200/PO-25-00332
+Extracellular Signal-Regulated MAP Kinases,carcinoma; pancreatic cancer; sarcoma,40893054,10.1200/PO-25-00332
+wide. serum prostate-specific antigen is a frequently employed biom,carcinoma; prostate cancer,40916883,10.4132/jptm.2025.06.06
+"ed to evaluate the junb proto-oncogene, a subunit of the ap-1 transc",carcinoma; prostate cancer,40916883,10.4132/jptm.2025.06.06
+"nit of the ap-1 transcription factor (junb), in 70 prostate cancer",carcinoma; prostate cancer,40916883,10.4132/jptm.2025.06.06
+tic biomarker and a potential tumor suppressor in prostate cancer.,carcinoma; prostate cancer,40916883,10.4132/jptm.2025.06.06
+"cogene, a subunit of the ap-1 transcription factor (junb), in 70 prostate cancer",carcinoma; prostate cancer,40916883,10.4132/jptm.2025.06.06
+ErbB Receptors,carcinoma; lung cancer,40892007; 40897431; 40898177; 40901248; 40916818,10.1093/stcltm/szae065; 10.1136/bmj-2024-082834; 10.11817/j.issn.1672-7347.2025.250026; 10.1186/s12896-025-01000-5; 10.2147/IJN.S531571
+"ch as phospholipases, choline kinase, and autotaxin, have emerged",melanoma; oral cancer,40916419,10.2174/0115680096398874250818210830
+"n, and resistance to therapy. enzymes involved in phos-pholipid me",melanoma; oral cancer,40916419,10.2174/0115680096398874250818210830
+herapeutic sensitivity of the peptide pdbag1 in ovarian cancer via,breast cancer; ovarian cancer,40915555,10.1016/j.ejphar.2025.178128
+f the crucial stress response transcription factor atf4 caused by pdbag1. collec,breast cancer; ovarian cancer,40915555,10.1016/j.ejphar.2025.178128
+ivo. pdbag1 downregulated the protein level of c1qbp and damaged mi,breast cancer; ovarian cancer,40915555,10.1016/j.ejphar.2025.178128
+stress response transcription factor atf4 caused by pdbag1. collec,breast cancer; ovarian cancer,40915555,10.1016/j.ejphar.2025.178128
+"r work, this study identifies proteins altered in the prostate prot",carcinoma; prostate cancer,40915013,10.1016/j.arcmed.2025.103297
+d increases susceptibility to oncogenesis.,carcinoma; prostate cancer,40915013,10.1016/j.arcmed.2025.103297
+elioma (e.g. brca1-associated protein-1 [bap1]) independent of othe,breast cancer; melanoma,40914963,10.1093/pubmed/fdaf110
+"1]) independent of other risk factors, such as amphibole asbestos",breast cancer; melanoma,40914963,10.1093/pubmed/fdaf110
+"muc1, thereby enhancing muc1 protein stability. galnt4-induced o-g",carcinoma; pancreatic cancer,40914662,10.1016/j.pan.2025.08.008
+mo) in human epidermal growth factor receptor 2 (her2)-positive ad,breast cancer; gastric cancer,40913834,10.1016/j.esmoop.2025.105563
+(t-chemo) in human epidermal growth factor receptor 2 (her2)-positive ad,breast cancer; gastric cancer,40913834,10.1016/j.esmoop.2025.105563
+human epidermal growth factor receptor 2 (her2)-positive advanced ga,breast cancer; gastric cancer,40913834,10.1016/j.esmoop.2025.105563
+he role of humanized chimeric antigen receptor (car) modified natur,carcinoma; lung cancer,40913086,10.1038/s41417-025-00957-x
+"long-term killing ability and cytokine secretion ability, and had a",carcinoma; lung cancer,40913086,10.1038/s41417-025-00957-x
+"robo1 is an important surface receptor on tumor cells, but the role",carcinoma; lung cancer,40913086,10.1038/s41417-025-00957-x
+changes were detected in noxa protein levels concerning ovarian can,carcinoma; ovarian cancer,40913040,10.1038/s41598-025-17650-6
+ected epidermal growth factor receptor/anaplastic lymphoma kinase-po,lung cancer; lymphoma,40912914,10.1136/thorax-2025-223096
+ibitors in resected epidermal growth factor receptor/anaplastic lymphoma,lung cancer; lymphoma,40912914,10.1136/thorax-2025-223096
+in resected epidermal growth factor receptor/anaplastic lymphoma,lung cancer; lymphoma,40912914,10.1136/thorax-2025-223096
+"ii disease, adjuvant tyrosine kinase inhibitors in resected epider",lung cancer; lymphoma,40912914,10.1136/thorax-2025-223096
+rare epidermal growth factor receptor (egfr) exon 19 insertion-dele,carcinoma; lung cancer,40912044,10.1016/j.esmoop.2025.105564
+ical impact of rare epidermal growth factor receptor (egfr) exon 19 inser,carcinoma; lung cancer,40912044,10.1016/j.esmoop.2025.105564
+deletion variants on tyrosine kinase inhibitor efficacy in non-sma,carcinoma; lung cancer,40912044,10.1016/j.esmoop.2025.105564
+pact of rare epidermal growth factor receptor (egfr) exon 19 inser,carcinoma; lung cancer,40912044,10.1016/j.esmoop.2025.105564
+and adverse effects including cytokine release syndrome. recent inno,carcinoma; pancreatic cancer,40912036,10.1016/j.seminoncol.2025.152411
+such as fibroblast activation protein (fap)-specific cars and hepar,carcinoma; pancreatic cancer,40912036,10.1016/j.seminoncol.2025.152411
+r pancreatic cancer. chimeric antigen receptor (car) t-cell therapy,carcinoma; pancreatic cancer,40912036,10.1016/j.seminoncol.2025.152411
+atic cancer. chimeric antigen receptor (car) t-cell therapy has chan,carcinoma; pancreatic cancer,40912036,10.1016/j.seminoncol.2025.152411
+ebp-2). by binding to liver x receptors (lxr) and estrogen receptors,carcinoma; lung cancer,40911990,10.1016/j.intimp.2025.115491
+ol regulatory element-binding protein 2 (srebp-2). by binding to li,carcinoma; lung cancer,40911990,10.1016/j.intimp.2025.115491
+"mitochondrial cytochrome p450 enzyme, sterol 27-hydroxylase (cyp27",carcinoma; lung cancer,40911990,10.1016/j.intimp.2025.115491
+hemoradiotherapy is a crucial factor limiting the efficacy of ther,carcinoma; esophageal cancer,40911942,10.1016/j.drup.2025.101296
+nd identified the ring finger protein 217 (rnf217) as a new regulat,carcinoma; esophageal cancer,40911942,10.1016/j.drup.2025.101296
+Proto-Oncogene Proteins c-akt,breast cancer; colorectal cancer,40898016; 40910254; 40911847,10.1080/19490976.2025.2555446; 10.1186/s10020-025-01325-z; 10.3892/or.2025.8980
+Phosphatidylinositol 3-Kinases,breast cancer; colorectal cancer,40898016; 40910254; 40911847,10.1080/19490976.2025.2555446; 10.1186/s10020-025-01325-z; 10.3892/or.2025.8980
+"ineage-defining transcription factor of sclc, ascl1, has been impl",carcinoma; lung cancer,40911432,10.1158/1078-0432.CCR-25-2090
+seizure-related homolog protein 6 (sez6): biology and therape,carcinoma; lung cancer,40911432,10.1158/1078-0432.CCR-25-2090
+"s limited. a lineage-defining transcription factor of sclc, ascl1, has been impl",carcinoma; lung cancer,40911432,10.1158/1078-0432.CCR-25-2090
+"emerged as a novel target for antibody-drug conjugate (adc) therapy,",carcinoma; lung cancer,40911432,10.1158/1078-0432.CCR-25-2090
+on prostate-specific membrane antigen positron emission tomography,carcinoma; prostate cancer,40910488,10.1097/JU.0000000000004734
+Protein Serine-Threonine Kinases,breast cancer; ovarian cancer,40910229; 40910254,10.3892/ijmm.2025.5627; 10.3892/or.2025.8980
+"disease, the heterogeneity of antigen expression in order to avoid",lung cancer; sarcoma,40909976,10.3389/fonc.2025.1601443
+ceive epidermal growth factor receptor (egfr) inhibitor treatment. t,colorectal cancer; sarcoma,40909964,10.3389/fonc.2025.1605915
+d to receive epidermal growth factor receptor (egfr) inhibitor tre,colorectal cancer; sarcoma,40909964,10.3389/fonc.2025.1605915
+ype kirsten rat sarcoma viral oncogene homologue (kras) gene were re,colorectal cancer; sarcoma,40909964,10.3389/fonc.2025.1605915
+ommended to receive epidermal growth factor receptor (egfr) inhibitor tre,colorectal cancer; sarcoma,40909964,10.3389/fonc.2025.1605915
+"signaling, and enhanced mhc-i antigen presentation along the diseas",carcinoma; ovarian cancer,40909841,10.1101/2025.08.25.25333715
+nd a normal prostate-specific antigen of 0.96 ng/ml was referred fo,carcinoma; prostate cancer,40909313,10.1002/iju5.70088
+"a pd-(l)1-blocking monoclonal antibody, together with the oral multi",carcinoma; lung cancer,40908570,10.1002/cam4.71191
+Time Factors,breast cancer; prostate cancer,40900461; 40908518,10.1002/mp.17960; 10.1590/1414-431X2025e14527
+"Receptors, Progesterone",breast cancer; carcinoma,40898467; 40908488,10.1097/MD.0000000000044222; 10.1186/s12957-025-03962-4
+"Receptors, Estrogen",breast cancer; carcinoma,40891595; 40898467; 40908488,10.1002/cam4.71172; 10.1097/MD.0000000000044222; 10.1186/s12957-025-03962-4
+ell lymphoma 2 (bcl-2) family proteins that block cell-intrinsic ap,leukemia; lymphoma,40908151,10.1158/1535-7163.MCT-24-0873
+of anti-vascular endothelial growth factor (vegf) antibodies (avas) in c,breast cancer; ovarian cancer,40907495,10.1016/j.xcrm.2025.102329
+i-vascular endothelial growth factor (vegf) antibodies (avas) in c,breast cancer; ovarian cancer,40907495,10.1016/j.xcrm.2025.102329
+cancer type 1 susceptibility protein (brca1)-associated ring domai,breast cancer; ovarian cancer,40907495,10.1016/j.xcrm.2025.102329
+oeconomic status and rurality-factors that may influence access to,breast cancer; colorectal cancer,40906319,10.1007/s10552-025-02054-8
+raction < 0.001) and estrogen receptor (er)-negative survivors (er n,breast cancer; colorectal cancer,40906319,10.1007/s10552-025-02054-8
+Risk Factors,breast cancer; ovarian cancer,40890881; 40897668; 40905868,10.1186/s13058-025-02110-w; 10.24546/0100497175; 10.4103/jcrt.jcrt_28_25
+n. although smoking is a risk factor for pancreatic adenocarcinoma,carcinoma; pancreatic cancer,40905825,10.1158/2159-8290.CD-25-0377
+aryl hydrocarbon receptor ligands drive pancreatic cancer init,carcinoma; pancreatic cancer,40905825,10.1158/2159-8290.CD-25-0377
+aryl hydrocarbon receptor ligands drive pancreatic canc,carcinoma; pancreatic cancer,40905825,10.1158/2159-8290.CD-25-0377
+"to vaccination was performed. antigen p27 testing, pcr testing to d",leukemia; sarcoma,40905267,10.1177/1098612X251353080
+antibody responses to feline leukaemia,leukemia; sarcoma,40905267,10.1177/1098612X251353080
+Sex Factors,leukemia; sarcoma,40905267,10.1177/1098612X251353080
+a levels of soluble upar (upa receptor) are associated with progress,cervical cancer; colorectal cancer,40905116,10.1161/ATVBAHA.124.321603
+ated plasma levels of upa (urokinase plasminogen activator) are as,cervical cancer; colorectal cancer,40905116,10.1161/ATVBAHA.124.321603
+"profibrinolytic factors and cancer progression, meta",cervical cancer; colorectal cancer,40905116,10.1161/ATVBAHA.124.321603
+"scription factor a, tetratricopeptide repeat domain 19, coiled-coil",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+"β regulator 4, mitochondrial transcription factor a, tetratricopeptide repeat d",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+"iency virus-1 tat interactive protein 2, cytochrome c somatic, mito",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+"mal protein l44, transforming growth factor β regulator 4, mitochondrial",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+"pyruvate carrier 1, adenylate kinase 2, mitochondrial ribosomal pr",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+"tein l44, transforming growth factor β regulator 4, mitochondrial",carcinoma; lung cancer,40904599,10.3892/ol.2025.15240
+") cells, and chimeric antigen receptor t (car-t) cells have shown en",carcinoma; lung cancer,40904467,10.3389/fimmu.2025.1633100
+"antly constrained by multiple factors, including the immunosuppres",carcinoma; lung cancer,40904467,10.3389/fimmu.2025.1633100
+"tic cell (dc)-based vaccines, cytokine-induced killer (cik) cells, a",carcinoma; lung cancer,40904467,10.3389/fimmu.2025.1633100
+"ler (cik) cells, and chimeric antigen receptor t (car-t) cells have",carcinoma; lung cancer,40904467,10.3389/fimmu.2025.1633100
+"mens, and cell lines. in situ protein expression of slc6a8 was inve",carcinoma; lung cancer,40903981,10.1002/1878-0261.70121
+"yap-driven cancer metastasis. protein s-palmitoylation, a dynamic a",carcinoma; lung cancer,40903842,10.1111/jcmm.70815
+substrates of individual dhhc enzymes remain poorly characterised.,carcinoma; lung cancer,40903842,10.1111/jcmm.70815
+YAP-Signaling Proteins,carcinoma; lung cancer,40903842,10.1111/jcmm.70815
+"ncers, yet its large, nuclear protein-protein interface has long fr",carcinoma; lymphoma,40903666,10.1007/s10637-025-01582-z
+ntification of tribbles pseudokinase 3 (trib3) as a high-affinity,carcinoma; lymphoma,40903666,10.1007/s10637-025-01582-z
+"ion strategies. the oncogenic transcription factor myc drives proliferation, met",carcinoma; lymphoma,40903666,10.1007/s10637-025-01582-z
+"ude helix-mimetic and stapled peptides such as pcm4, fragment-deriv",carcinoma; lymphoma,40903666,10.1007/s10637-025-01582-z
+". the oncogenic transcription factor myc drives proliferation, met",carcinoma; lymphoma,40903666,10.1007/s10637-025-01582-z
+l1) expression are prognostic factors for tnbc. we analyzed the as,breast cancer; carcinoma,40903297,10.1272/jnms.JNMS.2025_92-405
+sociation of programmed death-ligand 1 expression in relation to t,breast cancer; carcinoma,40903297,10.1272/jnms.JNMS.2025_92-405
+cial at-rich sequence-binding protein 2. these findings indicated a,carcinoma; pancreatic cancer,40903270,10.5387/fms.25-00017
+"1 encodes two oncogenic viral factors, tax and htlv-1 bzip factor",leukemia; lymphoma,40903254,10.11406/rinketsu.66.773
+Retroviridae Proteins,leukemia; lymphoma,40903254,10.11406/rinketsu.66.773
+anscript not only encodes hbz protein but also acts in a similar wa,leukemia; lymphoma,40903254,10.11406/rinketsu.66.773
+Basic-Leucine Zipper Transcription Factors,leukemia; lymphoma,40903254,10.11406/rinketsu.66.773
+imodal functions of htlv-1 in oncogenesis of adult t-cell leukemia-l,leukemia; lymphoma,40903254,10.11406/rinketsu.66.773
+y in lcnec alongside relevant protein expression data. tissue micro,carcinoma; lung cancer,40902984,10.1016/j.labinv.2025.104234
+"positive for desmin and s100 protein, but negative for ema, cd99 a",melanoma; sarcoma,40902304,10.1016/j.patol.2025.100841
+entify canonical transforming growth factor-β (tgf-β) signaling as the mo,breast cancer; carcinoma,40901953,10.1126/sciadv.ady1289
+ress-protective transcription factor heat shock factor 2 (hsf2) is,breast cancer; carcinoma,40901953,10.1126/sciadv.ady1289
+vasion. the stress-protective transcription factor heat shock factor 2 (hsf2) is,breast cancer; carcinoma,40901953,10.1126/sciadv.ady1289
+Heat Shock Transcription Factors,breast cancer; carcinoma,40901953,10.1126/sciadv.ady1289
+Transforming Growth Factor beta,breast cancer; carcinoma,40901953,10.1126/sciadv.ady1289
+lso an independent prognostic factor. the interaction between canc,carcinoma; lung cancer,40901786,10.1177/09603271251376577
+ened and validated the target proteins in macrophages that interact,carcinoma; lung cancer,40901786,10.1177/09603271251376577
+"d pcna, ki-67, and n-cadherin protein levels, while fad increased e",carcinoma; lung cancer,40901755,10.1002/jbt.70486
+e vascular endothelial growth factor (vegf)/egfr pathway. og@hpo r,carcinoma; lung cancer,40901248,10.2147/IJN.S531571
+ting the vascular endothelial growth factor (vegf)/egfr pathway. og@hpo r,carcinoma; lung cancer,40901248,10.2147/IJN.S531571
+a hybrid protein-oxygen nanomedicine overcomes,carcinoma; lung cancer,40901248,10.2147/IJN.S531571
+he 20s proteasome involved in protein degradation and antigen prese,carcinoma; lung cancer,40900751,10.7717/peerj.19958
+"ed in protein degradation and antigen presentation, has been implic",carcinoma; lung cancer,40900751,10.7717/peerj.19958
+Protein Interaction Maps,breast cancer; prostate cancer,40898538; 40900470,10.1097/MD.0000000000044142; 10.31744/einstein_journal/2025AO1601
+BRCA2 Protein,carcinoma; ovarian cancer,40890782; 40891252; 40900191,10.1002/cnr2.70335; 10.1007/s10689-025-00496-2; 10.1186/s13063-025-09062-8
+ty of glucagon-like peptide-1 receptor agonists in patients with typ,carcinoma; colorectal cancer,40900093,10.14309/ajg.0000000000003760
+liary safety of glucagon-like peptide-1 receptor agonists in patien,carcinoma; colorectal cancer,40900093,10.14309/ajg.0000000000003760
+"s. it activates retinoic acid receptors (rars), suppresses oncogenic",glioblastoma; head and neck cancer,40899415,10.1002/ardp.70084
+human epidermal growth factor receptor 2 (her2) amplification treate,carcinoma; gastric cancer,40898491,10.1097/MD.0000000000044094
+arcinoma with human epidermal growth factor receptor 2 (her2) amplificati,carcinoma; gastric cancer,40898491,10.1097/MD.0000000000044094
+a with human epidermal growth factor receptor 2 (her2) amplificati,carcinoma; gastric cancer,40898491,10.1097/MD.0000000000044094
+in d receptor expression with hormone receptors and other clinicopa,breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+"eceptor (pr), human epidermal growth factor receptor 2 (her2), and ki-67",breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+"Receptors, Calcitriol",breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+r) has been implicated in the oncogenesis and prognosis of various t,breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+relationship of vitamin d receptor expression with hormone recep,breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+"(pr), human epidermal growth factor receptor 2 (her2), and ki-67",breast cancer; carcinoma,40898467,10.1097/MD.0000000000044222
+"Oncogene Proteins, Fusion",leukemia; lymphoma,40898409,10.1080/16078454.2025.2550815
+"Antigens, CD19",leukemia; lymphoma,40898409,10.1080/16078454.2025.2550815
+erformed to assess apoptosis. protein expression of bax and bcl-2 w,carcinoma; colorectal cancer,40898175,10.1186/s12906-025-05075-7
+th protein 1/programmed death-ligand 1 (anti-pd-[l]1) immunotherap,carcinoma; lung cancer,40898159,10.1186/s12885-025-14779-5
+). anti-programmed cell death protein 1/programmed death-ligand 1 (,carcinoma; lung cancer,40898159,10.1186/s12885-025-14779-5
+"immunity through expanding neoantigen-specific cd8 + t cells, but i",carcinoma; lung cancer,40898159,10.1186/s12885-025-14779-5
+Phosphoproteins,melanoma; skin cancer,40897749,10.1038/s41597-025-05807-x
+Proto-Oncogene Proteins B-raf,melanoma; skin cancer,40892895; 40897749,10.1038/s41597-025-05807-x; 10.1126/scisignal.adw3231
+Nuclear Proteins,carcinoma; lung cancer,40897711,10.1038/s41467-025-63687-6
+"cytarabine (ara-c), and t-box transcription factor 21 (tbx21) emerged as a plaus",leukemia; lymphoma,40897694,10.1038/s41419-025-07981-7
+"a-c), and t-box transcription factor 21 (tbx21) emerged as a plaus",leukemia; lymphoma,40897694,10.1038/s41419-025-07981-7
+STAT6 Transcription Factor,leukemia; lymphoma,40897694,10.1038/s41419-025-07981-7
+mplications of cox-2 and her2 protein expression for the prognosis,carcinoma; colorectal cancer,40897122,10.1016/j.patol.2025.100840
+"pregulated tissue factor (tf) protein expression in plelc, while un",carcinoma; lung cancer,40896442,10.3389/fonc.2025.1640201
+"xisome proliferator-activated receptor α (ppar-α), and tf inhibitors",carcinoma; lung cancer,40896442,10.3389/fonc.2025.1640201
+s revealed upregulated tissue factor (tf) protein expression in pl,carcinoma; lung cancer,40896442,10.3389/fonc.2025.1640201
+"tremely low prostate-specific antigen levels, recurrent disease: a",carcinoma; prostate cancer,40896436,10.3389/fonc.2025.1645306
+"logy, negativity for hormonal receptors (estrogen receptor (er), pro",breast cancer; carcinoma,40895660,10.7759/cureus.89193
+"%, and human epidermal growth factor receptor 2 (her2) overexpress",breast cancer; carcinoma,40895660,10.7759/cureus.89193
+"on at 5%, and human epidermal growth factor receptor 2 (her2) overexpress",breast cancer; carcinoma,40895660,10.7759/cureus.89193
+function of the transcription factor pu.1 as an oncogene has alrea,carcinoma; lung cancer,40895524,10.3389/fimmu.2025.1604237
+en though the function of the transcription factor pu.1 as an oncogene has alrea,carcinoma; lung cancer,40895524,10.3389/fimmu.2025.1604237
+anscription factor pu.1 as an oncogene has already been investigated,carcinoma; lung cancer,40895524,10.3389/fimmu.2025.1604237
+"forms, mrna-based candidates, peptide vaccines, and dendritic cell-",leukemia; lymphoma,40895309,10.3389/fcimb.2025.1587802
+highlight the roles of viral proteins such as tax and hbz in immun,leukemia; lymphoma,40895309,10.3389/fcimb.2025.1587802
+(ham/tsp). among the key risk factors for atll development are hig,leukemia; lymphoma,40895309,10.3389/fcimb.2025.1587802
+vels of soluble interleukin-2 receptor. unlike classical oncogenic v,leukemia; lymphoma,40895309,10.3389/fcimb.2025.1587802
+htlv-1 does not encode proto-oncogenes but instead drives cellular,leukemia; lymphoma,40895309,10.3389/fcimb.2025.1587802
+ctor receptor (egfr)-tyrosine kinase inhibitors (tkis) have a cruc,carcinoma; lung cancer,40895164,10.1016/j.rmcr.2025.102271
+enocarcinoma again. epidermal growth factor receptor (egfr)-tyrosine kina,carcinoma; lung cancer,40895164,10.1016/j.rmcr.2025.102271
+gain. epidermal growth factor receptor (egfr)-tyrosine kinase inhibi,carcinoma; lung cancer,40895164,10.1016/j.rmcr.2025.102271
+inoma again. epidermal growth factor receptor (egfr)-tyrosine kina,carcinoma; lung cancer,40895164,10.1016/j.rmcr.2025.102271
+g as black. we identified 110 proteins that significantly differed,bladder cancer; prostate cancer,40894632,10.1101/2025.08.14.670396
+tion and other socio-economic factors. while men of african ancest,bladder cancer; prostate cancer,40894632,10.1101/2025.08.14.670396
+s remain poorly defined. glycoprotein nonmetastatic melanoma protei,breast cancer; melanoma,40892920,10.1073/pnas.2503081122
+Membrane Glycoproteins,breast cancer; melanoma,40892920,10.1073/pnas.2503081122
+Kruppel-Like Transcription Factors,carcinoma; lung cancer,40892691,10.1096/fj.202501354R
+"l role. however, the upstream factors controlling cers1 expression",carcinoma; lung cancer,40892691,10.1096/fj.202501354R
+een implicated as a potential tumor suppressor transcription factor (tf) in,carcinoma; lung cancer,40892691,10.1096/fj.202501354R
+a potential tumor suppressor transcription factor (tf) in lung cancer. our stud,carcinoma; lung cancer,40892691,10.1096/fj.202501354R
+"interactions with rna-binding proteins (rbps). therefore, further e",carcinoma; lung cancer,40892530,10.1096/fj.202501444RR
+on the stability of splicing factor proline- and glutamine-rich (,carcinoma; lung cancer,40892530,10.1096/fj.202501444RR
+ELAV-Like Protein 1,carcinoma; lung cancer,40892530,10.1096/fj.202501444RR
+Tumor Necrosis Factor-alpha,carcinoma; lung cancer,40892530,10.1096/fj.202501444RR
+between circhmgcs1 and human antigen r (hur) protein was verified,carcinoma; lung cancer,40892530,10.1096/fj.202501444RR
+". additionally, transcription factor activity and pseudotime traje",carcinoma; colorectal cancer,40891683,10.1002/cam4.71202
+"xpressed genes. additionally, transcription factor activity and pseudotime traje",carcinoma; colorectal cancer,40891683,10.1002/cam4.71202
+nalysis identified key ligand-receptor interactions involved in immu,carcinoma; colorectal cancer,40891683,10.1002/cam4.71202
+ation analysis identified key ligand-receptor interactions involve,carcinoma; colorectal cancer,40891683,10.1002/cam4.71202
+ogic cancer service to assess factors associated with obtaining a,carcinoma; ovarian cancer,40891252,10.1002/cnr2.70335
+ras Proteins,carcinoma; lung cancer,40891208,10.1158/0008-5472.CAN-25-1989
+"sion, typically regarded as a tumor suppressor. to elucidate its biological",carcinoma; lung cancer,40890861,10.1186/s40364-025-00815-w
+"es platelet-type phosphofructokinase (pfkp) levels, a key rate-lim",carcinoma; lung cancer,40890861,10.1186/s40364-025-00815-w
+") levels, a key rate-limiting enzyme in glycolysis, by enhancing i",carcinoma; lung cancer,40890861,10.1186/s40364-025-00815-w
+"(a mitogen-activated protein kinase inhibitor [meki]), and cetuxi",colorectal cancer; sarcoma,40890837,10.1186/s40780-025-00480-z
+"imetinib (a mitogen-activated protein kinase inhibitor [meki]), and",colorectal cancer; sarcoma,40890837,10.1186/s40780-025-00480-z
+t. v-raf murine sarcoma viral oncogene homolog b1 (braf) mutations a,colorectal cancer; sarcoma,40890837,10.1186/s40780-025-00480-z
+SMARCB1 Protein,breast cancer; carcinoma,40890601; 40890751,10.1186/s11658-025-00788-6; 10.1186/s13000-025-01705-3
+Peptides,colorectal cancer; gastric cancer,40890441,10.1038/s41598-025-17915-0
+Peptide Hydrolases,colorectal cancer; gastric cancer,40890441,10.1038/s41598-025-17915-0
+activity with charge-changing peptides enables detection and classi,colorectal cancer; gastric cancer,40890441,10.1038/s41598-025-17915-0
+s studies found that melanoma antigen genes (mage) were antigens ex,gastric cancer; melanoma,40890425,10.1038/s41598-025-17987-y
+Repressor Proteins,breast cancer; carcinoma,40890191,10.1038/s41467-025-63659-w
+of adipocyte enhancer-binding protein 1 (aebp1) positively correlat,breast cancer; carcinoma,40890191,10.1038/s41467-025-63659-w
+MutS Homolog 2 Protein,carcinoma; lung cancer,40889797,10.1136/jitc-2025-011526
+", an e2 ubiquitin-conjugating enzyme, and pancreatic cancer and pa",carcinoma; pancreatic cancer,40889735,10.1016/j.canlet.2025.218013
+"ecifically, both the mrna and protein levels of ube2c are upregulat",carcinoma; pancreatic cancer,40889735,10.1016/j.canlet.2025.218013
+"nf-related apoptosis-inducing ligand (trail) to trail-r1, which le",carcinoma; pancreatic cancer,40889658,10.1016/j.ijbiomac.2025.147227
+Hyaluronan Receptors,breast cancer; cervical cancer,40888184,10.1002/cam4.71194
+tance. the transmembrane glycoprotein cluster of differentiation 44,breast cancer; cervical cancer,40888184,10.1002/cam4.71194
+RNA-Binding Proteins,bladder cancer,40916820,10.11817/j.issn.1672-7347.2025.250202
+"r1, and proliferation-related proteins [proliferating cell nuclear",bladder cancer,40916820,10.11817/j.issn.1672-7347.2025.250202
+"s [proliferating cell nuclear antigen (pcna), minichromosome mainte",bladder cancer,40916820,10.11817/j.issn.1672-7347.2025.250202
+"Genes, Tumor Suppressor",bladder cancer,40916820,10.11817/j.issn.1672-7347.2025.250202
+progression by regulating the tumor suppressor gene  bladder cancer is a com,bladder cancer,40916820,10.11817/j.issn.1672-7347.2025.250202
+ancers belong to the estrogen receptor (er)-positive luminal subtype,breast cancer,40916662,10.1093/procel/pwaf076
+n of such malignancies become hormone-refractory and incurable. can,breast cancer,40916662,10.1093/procel/pwaf076
+"rin, n-cadherin, and vimentin proteins were detected with western b",breast cancer,40916530,10.12122/j.issn.1673-4254.2025.08.13
+"the complex functions of tlr proteins in lung cancers, elucidating",lung cancer,40916441,10.2174/0113894501414090250903070446
+targeting the toll-like receptor signaling pathway in lung can,lung cancer,40916441,10.2174/0113894501414090250903070446
+vators and inhibitors of this protein are effective. for pkm2-based,ovarian cancer,40916418,10.2174/0118715206394408250806065235
+"btz) functions as an androgen receptor signalling inhibitor, is used",prostate cancer,40916398,10.4274/tjps.galenos.2025.36559
+"e drug-plga nbs using a three-factor, three-level box-behnken desi",prostate cancer,40916398,10.4274/tjps.galenos.2025.36559
+arian cancer with high folate receptor alpha expression treated with,ovarian cancer,40916321,10.1016/j.ijgc.2025.102016
+"human epidermal growth factor receptor-2 (her-2), a key biomarker in",breast cancer,40916269,10.1016/j.bioelechem.2025.109084
+"marker her-2. human epidermal growth factor receptor-2 (her-2), a key bio",breast cancer,40916269,10.1016/j.bioelechem.2025.109084
+"her-2. human epidermal growth factor receptor-2 (her-2), a key bio",breast cancer,40916269,10.1016/j.bioelechem.2025.109084
+cise targeting. while ph- and enzyme-sensitive ddss are the most u,colorectal cancer,40916179,10.1002/adhm.202501540
+Poly-ADP-Ribose Binding Proteins,breast cancer,40916080,10.1111/jcmm.70836
+"the dna damage/repair pathway enzyme, poly (adp-ribose) polymerase",prostate cancer,40915979,10.1002/1878-0261.70098
+and survival rates in hormone receptor-positive (hr+) breast cancer,breast cancer,40915962,10.1016/j.clbc.2025.07.024
+"otypes, and survival rates in hormone receptor-positive (hr+) breas",breast cancer,40915962,10.1016/j.clbc.2025.07.024
+"ads) score, prostate-specific antigen, and biopsy indication. secon",prostate cancer,40915879,10.1016/j.euo.2025.08.001
+"ac-α serine/threonine-protein kinase (akt1), both of which are hig",breast cancer,40915714,10.1016/j.aca.2025.344462
+"s for isolating ir780-labeled proteins, gel imaging using imagej an",breast cancer,40915714,10.1016/j.aca.2025.344462
+"isk, particularly in estrogen receptor-positive subtypes. conversely",breast cancer,40915512,10.1016/j.toxlet.2025.111721
+"ian cancer (oc). gap junction protein β-2 (gjb2), a key member of t",ovarian cancer,40915501,10.1016/j.bbamcr.2025.120058
+olorectal cancer. ring finger protein 180 (rnf180) is an e3 ubiquit,colorectal cancer,40915184,10.1016/j.intimp.2025.115445
+anti-trophoblast cell surface antigen 2 (trop2) antibody-drug conju,breast cancer,40914741,10.1007/s40291-025-00814-5
+"ell surface antigen 2 (trop2) antibody-drug conjugate, has been appr",breast cancer,40914741,10.1007/s40291-025-00814-5
+"diet, lifestyle, and genetic factors. this review synthesizes epi",lung cancer,40914511,10.1016/j.tjnut.2025.08.030
+"ed/processed meats with plant proteins, poultry, or fish reduces di",lung cancer,40914511,10.1016/j.tjnut.2025.08.030
+er cells secrete nerve growth factors and neurotropic factors that,colorectal cancer,40914425,10.1016/j.jare.2025.08.052
+tential role of β2-adrenergic receptor (β2-ar). studies on the inter,colorectal cancer,40914425,10.1016/j.jare.2025.08.052
+"e, cancer cells secrete nerve growth factors and neurotropic factors that",colorectal cancer,40914425,10.1016/j.jare.2025.08.052
+ed that s100a4 binds the rage receptor to facilitate this process. p,colorectal cancer,40914345,10.1016/j.canlet.2025.218017
+protein-coupled and toll like receptors. air pollution is a signific,lung cancer,40914212,10.1016/j.pharmthera.2025.108920
+"on and diseases: signaling, g protein-coupled and toll like recepto",lung cancer,40914212,10.1016/j.pharmthera.2025.108920
+nically. using activity-based protein profiling (abpp) and mass spe,colorectal cancer,40914158,10.1016/j.chembiol.2025.08.004
+"capacity of pcdds to crucial proteins. finally, in vitro and in vi",prostate cancer,40914086,10.1016/j.ecoenv.2025.119009
+rin is a nonheme iron-binding protein with a variety of proposed fu,melanoma,40914077,10.1016/j.molpha.2025.100070
+ts of pirin on tumor necrosis factor α-activated p65-regulated gen,melanoma,40914077,10.1016/j.molpha.2025.100070
+"dels, revealing that secreted protein acidic and rich in cysteine (",lung cancer,40914022,10.1016/j.biomaterials.2025.123675
+cell death and improved tumor antigen presentation compared to eith,melanoma,40913863,10.1016/j.intimp.2025.115435
+"herapy (et) for patients with hormone receptor-positive, human epid",breast cancer,40913835,10.1016/j.esmoop.2025.105758
+"et) for patients with hormone receptor-positive, human epidermal gro",breast cancer,40913835,10.1016/j.esmoop.2025.105758
+"itive, human epidermal growth factor receptor 2-negative early bre",breast cancer,40913835,10.1016/j.esmoop.2025.105758
+"tor-positive, human epidermal growth factor receptor 2-negative early bre",breast cancer,40913835,10.1016/j.esmoop.2025.105758
+"g challenge. cyclin-dependent kinase 4 and 6 inhibitors (cdk4/6i),",breast cancer,40913835,10.1016/j.esmoop.2025.105758
+"and its aberrant gain drives oncogenesis in leukemia and glioma, th",leukemia,40913772,10.1016/j.celrep.2025.116247
+paraspeckle protein nono regulates active chromat,leukemia,40913772,10.1016/j.celrep.2025.116247
+lly stimulating nsd1. nuclear receptor binding set domain protein 1,leukemia,40913772,10.1016/j.celrep.2025.116247
+cancer treatment. heat shock protein 70 (hsp70) represents a criti,breast cancer,40913527,10.1002/advs.202510802
+ication of colorectal cancer. peptide-based biosensors are widely u,colorectal cancer,40913455,10.1002/anie.202507241
+"locker. by introducing a dual-enzyme recognition mechanism, we dev",colorectal cancer,40913455,10.1002/anie.202507241
+human epidermal growth factor receptor 2 (her2) and estrogen recepto,breast cancer,40913401,10.1002/ijc.70135
+"ncer by er status. prognostic factors, such as the human epidermal",breast cancer,40913401,10.1002/ijc.70135
+", such as the human epidermal growth factor receptor 2 (her2) and estroge",breast cancer,40913401,10.1002/ijc.70135
+human epidermal growth factor receptor (her2) has emerged as a tumor,breast cancer,40913387,10.1002/smtd.202500599
+while human epidermal growth factor receptor (her2) has emerged a,breast cancer,40913387,10.1002/smtd.202500599
+cancer. while human epidermal growth factor receptor (her2) has emerged a,breast cancer,40913387,10.1002/smtd.202500599
+st-line programmed cell death protein 1 monotherapy. immune checkpo,melanoma,40913307,10.1111/1346-8138.17938
+d cell death protein-1 (pd-1) antibody monotherapy still fail to res,melanoma,40913307,10.1111/1346-8138.17938
+Low Density Lipoprotein Receptor-Related Protein-2,melanoma,40913277,10.1111/pcmr.70053
+ling. low density lipoprotein receptor-related protein 2 (lrp2) is a,melanoma,40913277,10.1111/pcmr.70053
+p2) is a 600 kilodalton multi-ligand endocytic membrane receptor e,melanoma,40913277,10.1111/pcmr.70053
+ny signaling. low density lipoprotein receptor-related protein 2 (l,melanoma,40913277,10.1111/pcmr.70053
+"r virus-polyomavirus middle t antigen (mmtv-pymt) mice, a widely us",breast cancer,40913249,10.1177/17448069251380034
+", with pain enhancing sensory peptides and potentially promoting tu",breast cancer,40913249,10.1177/17448069251380034
+vanced stages. the c-reactive protein (crp)-albumin-lymphocyte (cal,colorectal cancer,40913216,10.1007/s12029-025-01307-8
+C-Reactive Protein,colorectal cancer,40913216,10.1007/s12029-025-01307-8
+the pre-t cell receptor as a tumor immunotherapy targ,leukemia,40913096,10.1038/s41590-025-02269-6
+"g-term low dose-rate specific ligand-receptor pair, angptl4-sdc4,",lung cancer,40913060,10.1038/s41416-025-03128-9
+"low dose-rate specific ligand-receptor pair, angptl4-sdc4, enhances",lung cancer,40913060,10.1038/s41416-025-03128-9
+oxide (no) and the toll-like receptor 7/8 (tlr7/8) agonist r848. no,breast cancer,40912806,10.1016/j.carbpol.2025.124108
+human epidermal growth factor receptor 2 (her2)-positive breast canc,breast cancer,40912684,10.1021/acs.jmedchem.5c01184
+prognosis of human epidermal growth factor receptor 2 (her2)-positive br,breast cancer,40912684,10.1021/acs.jmedchem.5c01184
+sis of human epidermal growth factor receptor 2 (her2)-positive br,breast cancer,40912684,10.1021/acs.jmedchem.5c01184
+"ti-her2 therapies, especially antibody-drug conjugates (adcs). in th",breast cancer,40912684,10.1021/acs.jmedchem.5c01184
+"n independent poor prognostic factor (hr = 1.59, p = .049). furthe",carcinoma,40912657,10.1016/j.jtho.2025.08.022
+s of patient samples. nuclear receptor-binding set domain 3 (nsd3) h,carcinoma,40912657,10.1016/j.jtho.2025.08.022
+"tween nsd3 amplification, its protein expression, and cancer cell p",carcinoma,40912657,10.1016/j.jtho.2025.08.022
+ated with preoperative cancer antigen (ca) 19-9 level. patients wit,carcinoma,40912524,10.1016/j.gassur.2025.102214
+risk factors in predicting radiologically,carcinoma,40912524,10.1016/j.gassur.2025.102214
+"s with high affinity to these proteins, suggesting that pet-mps may",breast cancer,40912497,10.1016/j.fct.2025.115725
+"ps induced a pro-inflammatory cytokine response, including elevated",breast cancer,40912497,10.1016/j.fct.2025.115725
+ed prostate-specific membrane antigen (psma) tracers for prostate c,prostate cancer,40912282,10.1055/a-2652-3273
+-concept study. silicon-based ligands are of interest in increasin,prostate cancer,40912282,10.1055/a-2652-3273
+single cells from 12 estrogen-receptor-positive breast cancers and i,breast cancer,40912251,10.1016/j.cell.2025.08.012
+"atients that showed a luminal hormone-responsive lineage, indicatin",breast cancer,40912251,10.1016/j.cell.2025.08.012
+ol regulatory element-binding factor 1 (srebf1) and activated the,colorectal cancer,40912095,10.1016/j.ecoenv.2025.118996
+ivated the phosphoinositide 3-kinase (pi3k)/ protein kinase b (akt,colorectal cancer,40912095,10.1016/j.ecoenv.2025.118996
+phoinositide 3-kinase (pi3k)/ protein kinase b (akt) signalling pat,colorectal cancer,40912095,10.1016/j.ecoenv.2025.118996
+ers targeted tumor-associated antigens (taas). treatment-emergent a,breast cancer,40912047,10.1016/j.esmoop.2025.105573
+n = 3). four adcs targeted an oncogene (her2); others targeted tumor,breast cancer,40912047,10.1016/j.esmoop.2025.105573
+toxicity and efficacy of antibody-drug conjugates in advanced s,breast cancer,40912047,10.1016/j.esmoop.2025.105573
+cogenic transmembrane surface protein that is highly expressed in m,prostate cancer,40911783,10.1158/0008-5472.CAN-24-4855
+sis by activating the protein kinase c (pkc)-aldehyde dehydrogenas,breast cancer,40911782,10.1158/0008-5472.CAN-25-0822
+metastasis by activating the protein kinase c (pkc)-aldehyde dehyd,breast cancer,40911782,10.1158/0008-5472.CAN-25-0822
+te responsive element binding protein (chrebp)-mediated choline dep,colorectal cancer,40911779,10.1158/0008-5472.CAN-25-0235
+iated choline deprivation and chemokine secretion shape tumor-associa,colorectal cancer,40911779,10.1158/0008-5472.CAN-25-0235
+"ulated through focal adhesion kinase signaling. moreover, dlc1 reg",liver cancer,40911671,10.1126/sciadv.adt6083
+"sing machinery, including the protein talin, is organized at the ca",liver cancer,40911671,10.1126/sciadv.adt6083
+rhoA GTP-Binding Protein,liver cancer,40911671,10.1126/sciadv.adt6083
+GTPase-Activating Proteins,liver cancer,40911671,10.1126/sciadv.adt6083
+Protein Binding,liver cancer,40911671,10.1126/sciadv.adt6083
+Tumor Suppressor Proteins,liver cancer,40911671,10.1126/sciadv.adt6083
+Calcium-Binding Proteins,liver cancer,40911671,10.1126/sciadv.adt6083
+"une-related pathways, such as cytokine-cytokine receptor interaction",leukemia,40911615,10.1371/journal.pone.0328911
+"receptor interactions and mhc antigen presentation pathways, were d",leukemia,40911615,10.1371/journal.pone.0328911
+"nregulated. overexpression of oncogenes (flt3, myb, dnmt3b, and mycn",leukemia,40911615,10.1371/journal.pone.0328911
+"ys, such as cytokine-cytokine receptor interactions and mhc antigen",leukemia,40911615,10.1371/journal.pone.0328911
+"protac), mgds rely on induced protein-protein interactions as oppos",melanoma,40911408,10.1021/acs.jmedchem.5c01352
+nthesis of mgds targeting the transcription factor zbtb11 guided by protein comp,melanoma,40911408,10.1021/acs.jmedchem.5c01352
+s targeting the transcription factor zbtb11 guided by protein comp,melanoma,40911408,10.1021/acs.jmedchem.5c01352
+"alysis for overlapping genes. protein interactions were explored, w",colorectal cancer,40911331,10.1002/ddr.70151
+"lysis, functional enrichment, protein-protein interaction network a",breast cancer,40911231,10.1007/s10552-025-02057-5
+"onic acid metabolism, steroid hormone synthesis, and thyroid hormon",breast cancer,40911231,10.1007/s10552-025-02057-5
+"es, such as prostate-specific antigen (psa) testing and trans-recta",prostate cancer,40911178,10.1007/s11255-025-04763-0
+ging as a potential oncogenic factor. we analyzed the heterogeneit,breast cancer,40911146,10.1007/s10528-025-11242-9
+"ering serum prostate-specific antigen (psa) related testing, non-ps",prostate cancer,40911015,N/A
+Prostate-Specific Antigen,prostate cancer,40891205; 40902131; 40906959; 40910911; 40911015,10.1200/GO-25-00132; 10.21614/chirurgia.3131; 10.2340/sju.v60.44585; N/A
+score 3 and prostate-specific antigen (psa) levels of 4－20 μg/l. cl,prostate cancer,40910911,N/A
+"two 14-3-3 clients, estrogen receptor α (erα) and c-raf, we develop",breast cancer,40910885,10.1021/acs.accounts.5c00441
+ure-guided design to optimize ligand-protein interactions at the c,breast cancer,40910885,10.1021/acs.accounts.5c00441
+stabilization of native protein-protein interactions with mol,breast cancer,40910885,10.1021/acs.accounts.5c00441
+-3β in human epidermal growth factor receptor 2 positive (her2+) b,breast cancer,40910781,10.1021/acsbiomaterials.5c00644
+glucocorticoid receptor signaling mediates resistance,breast cancer,40910781,10.1021/acsbiomaterials.5c00644
+erum/glucocorticoid-regulated kinase 1 (sgk-1) and ranbp1 in tripl,breast cancer,40910781,10.1021/acsbiomaterials.5c00644
+and gsk-3β in human epidermal growth factor receptor 2 positive (her2+) b,breast cancer,40910781,10.1021/acsbiomaterials.5c00644
+deciphering protein-dna interactions of  metastas,breast cancer,40910466,10.1080/07391102.2025.2553344
+mall molecules or therapeutic proteins and were characterized as tu,melanoma,40910408,10.1002/jcph.70102
+"Antigens, Surface",prostate cancer,40901472; 40910322,10.32604/cju.2025.066700; 10.3389/fimmu.2025.1467357
+nd prostate-specific membrane antigen positron emission tomography,prostate cancer,40910322,10.32604/cju.2025.066700
+"Protein Processing, Post-Translational",lung cancer,40910276,10.3892/or.2025.8981
+"ed by lactate, alters histone proteins to modify the chromatin stru",lung cancer,40910276,10.3892/or.2025.8981
+Cell Cycle Proteins,breast cancer,40910254,10.3892/or.2025.8980
+c checkpoint serine/threonine kinase b (bub1b) is involved in nume,breast cancer,40910254,10.3892/or.2025.8980
+wn of difficult-to-target oncoproteins employing the ubiquitin-prot,breast cancer,40910236,10.2174/0109298673384371250806104406
+"esterone, and human epidermal growth factor receptors. so far, chemothera",breast cancer,40910236,10.2174/0109298673384371250806104406
+"human epidermal growth factor receptors. so far, chemotherapeutic dr",breast cancer,40910236,10.2174/0109298673384371250806104406
+"e, and human epidermal growth factor receptors. so far, chemothera",breast cancer,40910236,10.2174/0109298673384371250806104406
+"nce. moreover, several of the protein bands in this figure were str",ovarian cancer,40910229,10.3892/ijmm.2025.5627
+sion levels of salt‑inducible kinase 1 were detected in ovarian ca,ovarian cancer,40910229,10.3892/ijmm.2025.5627
+s is associated with multiple factors. epigenetic regulation has b,leukemia,40910221,10.3892/mmr.2025.13671
+epigenetically inhibiting the protein expression of dna methyltrans,leukemia,40910221,10.3892/mmr.2025.13671
+"activity of histone‑modifying enzymes, and controlling the express",leukemia,40910221,10.3892/mmr.2025.13671
+fering valuable insights into ligand-protein complex stabilization,breast cancer,40910213,10.2174/0113895575394059250813074806
+valuable insights into ligand-protein complex stabilization. overal,breast cancer,40910213,10.2174/0113895575394059250813074806
+"docking studies targeting key enzymes, including tyrosine kinases,",breast cancer,40910213,10.2174/0113895575394059250813074806
+"y enzymes, including tyrosine kinases, topoisomerases, and serine/",breast cancer,40910213,10.2174/0113895575394059250813074806
+chk1 (pdb id=1ia8) and aurora kinase (pdb id=5orl). molecular dyna,ovarian cancer,40910199,10.2174/0113816128385767250808102022
+"led strong and stable protein-ligand complex formation, which was",ovarian cancer,40910199,10.2174/0113816128385767250808102022
+"ta revealed strong and stable protein-ligand complex formation, whi",ovarian cancer,40910199,10.2174/0113816128385767250808102022
+th cell proliferation. ligand-receptor analysis revealed key interac,leukemia,40910197,10.2174/0118715303420113250818064855
+ated with cell proliferation. ligand-receptor analysis revealed ke,leukemia,40910197,10.2174/0118715303420113250818064855
+"spectively. prostate specific antigen density (psad), prognosis nut",prostate cancer,40909972,10.3389/fonc.2025.1603993
+to identify independent risk factors. a nomogram prediction model,prostate cancer,40909972,10.3389/fonc.2025.1603993
+ed prostate-specific membrane antigen (psma)-targeted radioligand t,prostate cancer,40909956,10.3389/fonc.2025.1583168
+o optimize psma-targeted radioligand therapy for metastatic castra,prostate cancer,40909956,10.3389/fonc.2025.1583168
+dless of treatment or hormone receptor status. additional transforme,breast cancer,40909848,10.1101/2025.08.25.25334393
+le regardless of treatment or hormone receptor status. additional t,breast cancer,40909848,10.1101/2025.08.25.25334393
+"al associations between 2,923 protein levels and incidence of these",lung cancer,40909825,10.1101/2025.08.27.25334571
+are impacted by environmental factors that might independently aff,lung cancer,40909825,10.1101/2025.08.27.25334571
+"-based assessment of estrogen receptor (er) status, a critical step",breast cancer,40909747,10.1101/2025.08.27.672012
+izing a conformation-specific antibody (clone 7065). pet/ct imaging,leukemia,40909732,10.1101/2025.08.21.671206
+"argeting non-cancer-selective antigens have shown promise in aml, t",leukemia,40909732,10.1101/2025.08.21.671206
+"r, the role of individual wnt proteins in the development of crc re",colorectal cancer,40909730,10.1101/2025.08.21.671161
+"analyses of gene expression, protein abundance, splicing, and chro",breast cancer,40909606,10.1101/2025.08.27.672587
+other inflammatory diseases. ligand-independent trem-1 inhibitory,pancreatic cancer,40909488,10.1101/2025.08.22.671865
+independent trem-1 inhibitory peptides gf9 and ga31 (the latter in,pancreatic cancer,40909488,10.1101/2025.08.22.671865
+atory pathologies. triggering receptor expressed on myeloid cells 1,pancreatic cancer,40909488,10.1101/2025.08.22.671865
+"of therapy, prostate-specific antigen (psa) re-elevated; however, a",prostate cancer,40909318,10.1002/iju5.70068
+ncer: a case report. androgen receptor signaling inhibitors (arsis),prostate cancer,40909318,10.1002/iju5.70068
+h elevated b-type natriuretic peptide (bnp). darolutamide was disco,prostate cancer,40909318,10.1002/iju5.70068
+treated with several androgen receptor signaling inhibitors and chem,prostate cancer,40909311,10.1002/iju5.70062
+d in marked prostate-specific antigen reduction and significant shr,prostate cancer,40909311,10.1002/iju5.70062
+"ide. apalutamide, an androgen receptor antagonist for prostate cance",prostate cancer,40909306,10.1002/iju5.70085
+es of innate immune cells and cytokines in shaping the breast cancer,breast cancer,40909271,10.3389/fimmu.2025.1654947
+Cytokines,breast cancer,40909271,10.3389/fimmu.2025.1654947
+"to endogenous cues (e.g., ph, enzymes, and redox conditions) and e",carcinoma,40909221,10.3389/fbioe.2025.1673134
+"ation of key anti-ferroptotic proteins, specifically ferritin and g",pancreatic cancer,40908564,10.1002/advs.202505356
+serine/threonine kinase 33 as a novel target of bufal,breast cancer,40908551,10.1002/advs.202506253
+"ntifies stk33 as a pro-cancer factor in tnbc, presenting a potenti",breast cancer,40908551,10.1002/advs.202506253
+otes the degradation of stk33 protein by destroying the stk33-hsp90,breast cancer,40908551,10.1002/advs.202506253
+pact of heterogeneous hormone receptor (hr) expression patterns on h,breast cancer,40908488,10.1186/s12957-025-03962-4
+. the impact of heterogeneous hormone receptor (hr) expression patt,breast cancer,40908488,10.1186/s12957-025-03962-4
+is an independent prognostic factor for survival outcomes in her2,breast cancer,40908488,10.1186/s12957-025-03962-4
+"n, a naturally occurring tetrapeptide, is known for its anti-aging",breast cancer,40908429,10.1007/s10522-025-10315-x
+"h epitalon then dna, rna, and proteins were extracted. qpcr and imm",breast cancer,40908429,10.1007/s10522-025-10315-x
+Oligopeptides,breast cancer,40908429,10.1007/s10522-025-10315-x
+"h the induction of telomerase enzyme activity, resulting in the ex",breast cancer,40908429,10.1007/s10522-025-10315-x
+"tients with advanced estrogen receptor-positive, her2",breast cancer,40908356,10.1038/s41591-025-03935-w
+patritumab deruxtecan in hr antibody-drug conjugates have shown im,breast cancer,40908353,10.1038/s41591-025-03885-3
+"lines increased ecd mrna and protein levels, and ar knockdown (kd)",prostate cancer,40908313,10.1038/s41388-025-03559-x
+"ecd, a novel androgen receptor target promotes prostate canc",prostate cancer,40908313,10.1038/s41388-025-03559-x
+al role of ecd to maintain pc oncogenesis. ecd mrna and protein are,prostate cancer,40908313,10.1038/s41388-025-03559-x
+location of the transcription factor nf-κb to the nucleus and the,prostate cancer,40908300,10.1038/s41392-025-02376-8
+"Receptors, CXCR4",prostate cancer,40908300,10.1038/s41392-025-02376-8
+d by the translocation of the transcription factor nf-κb to the nucleus and the,prostate cancer,40908300,10.1038/s41392-025-02376-8
+e pro-metastatic cell surface protein cub-domain containing protein,breast cancer,40908298,10.1038/s41416-025-03163-6
+"otein 1 (cdcp1) activates src kinase localized in mitochondria, wh",breast cancer,40908298,10.1038/s41416-025-03163-6
+1 knockdown increased nuclear receptor coactivator 4 (ncoa4)-mediate,ovarian cancer,40907917,10.1016/j.ijbiomac.2025.147257
+"x o1 (foxo1), a transcription factor essential for tumorigenesis a",breast cancer,40907897,10.1016/j.jbc.2025.110677
+"e (asl) expression, a crucial enzyme in the urea cycle, leading to",breast cancer,40907897,10.1016/j.jbc.2025.110677
+"fy forkhead box o1 (foxo1), a transcription factor essential for tumorigenesis a",breast cancer,40907897,10.1016/j.jbc.2025.110677
+"eat kinase 2 (lrrk2), a large protein with kinase and gtpase activi",leukemia,40907896,10.1016/j.jbc.2025.110675
+"of lrrk2. leucine-rich repeat kinase 2 (lrrk2), a large protein wi",leukemia,40907896,10.1016/j.jbc.2025.110675
+ship between deubiquitinating enzymes (dubs) and lrrk2 has not bee,leukemia,40907896,10.1016/j.jbc.2025.110675
+"b, an epidermal growth factor receptor (egfr) inhibitor, dynamically",lung cancer,40907812,10.1016/j.actbio.2025.09.001
+"rlotinib, an epidermal growth factor receptor (egfr) inhibitor, dy",lung cancer,40907812,10.1016/j.actbio.2025.09.001
+"1>2). erlotinib, an epidermal growth factor receptor (egfr) inhibitor, dy",lung cancer,40907812,10.1016/j.actbio.2025.09.001
+"and poor prognosis. nudc-like protein 2 (nudcl2), a molecular cocha",pancreatic cancer,40907782,10.1016/j.yexcr.2025.114730
+"ession. the upregulated tra2a protein, functioning as a key splicin",ovarian cancer,40907573,10.4143/crt.2025.752
+"functioning as a key splicing factor, specifically regulates alter",ovarian cancer,40907573,10.4143/crt.2025.752
+"cing-based multigene assay in hormone receptor-positive, her2-negat",breast cancer,40907570,10.4143/crt.2025.701
+"ed multigene assay in hormone receptor-positive, her2-negative breas",breast cancer,40907570,10.4143/crt.2025.701
+", tumor size > 2 cm, androgen receptor positivity, and high cd66b+ t",breast cancer,40907422,10.1016/j.prp.2025.156205
+"al enhancer associated domain proteins), one of the final effectors",ovarian cancer,40907380,10.1016/j.ejmech.2025.118056
+l as osteoporosis. menopausal hormone therapy (mht) is indicated fo,thyroid cancer,40907339,10.1016/j.maturitas.2025.108715
+"atments, such as neurokinin-3 receptor antagonists, should be consid",thyroid cancer,40907339,10.1016/j.maturitas.2025.108715
+on via lrh1 sustains estrogen receptor signaling and promotes endocr,breast cancer,40907246,10.1016/j.jbc.2025.110553
+"tor-positive, human epidermal growth factor receptor 2-negative (hr+/her2",breast cancer,40907238,10.1016/j.breast.2025.104568
+"ival in patients with hormone receptor-positive, human epidermal gro",breast cancer,40907238,10.1016/j.breast.2025.104568
+"and survival in patients with hormone receptor-positive, human epid",breast cancer,40907238,10.1016/j.breast.2025.104568
+"itive, human epidermal growth factor receptor 2-negative (hr+/her2",breast cancer,40907238,10.1016/j.breast.2025.104568
+treated with cyclin-dependent kinase 4/6 (cdk4/6) inhibitors remai,breast cancer,40907238,10.1016/j.breast.2025.104568
+ent of patients were estrogen receptor positive. two hundred and thi,endometrial cancer,40907210,10.1016/j.esmoop.2025.105755
+esistance to chimeric antigen receptor t-cell (car-t) and t-cell eng,myeloma,40906971,10.1158/2643-3230.BCD-25-0005
+timing genomic antigen loss in multiple myeloma trea,myeloma,40906971,10.1158/2643-3230.BCD-25-0005
+act of human epidermal growth factor receptor 2 in patients with m,colorectal cancer,40906970,10.1200/JCO-25-01003
+impact of human epidermal growth factor receptor 2 in patients with m,colorectal cancer,40906970,10.1200/JCO-25-01003
+human epidermal growth factor receptor 2 in patients with metastatic,colorectal cancer,40906970,10.1200/JCO-25-01003
+"Receptors, Antigen, B-Cell",leukemia,40906805,10.1073/pnas.2426935122
+Toll-Like Receptor 9,leukemia,40906805,10.1073/pnas.2426935122
+"n circulation express pd-1, a protein normally expressed in t cells",leukemia,40906805,10.1073/pnas.2426935122
+Agammaglobulinaemia Tyrosine Kinase,leukemia,40906805,10.1073/pnas.2426935122
+intensification with androgen receptor signaling inhibitors and/or c,prostate cancer,40906580,10.1002/cncr.70070
+tion in patients with de novo hormone-sensitive metastatic prostate,prostate cancer,40906580,10.1002/cncr.70070
+", patient-, and tumor-related factors associated with the receipt",prostate cancer,40906580,10.1002/cncr.70070
+"ferritinophagy. cafs secrete factors, in a ddr2-dependent manner,",ovarian cancer,40906573,10.1158/1541-7786.MCR-25-0268
+he collagen receptor tyrosine kinase ddr2 in cafs confers parpi pr,ovarian cancer,40906573,10.1158/1541-7786.MCR-25-0268
+s: the action of the collagen receptor tyrosine kinase ddr2 in cafs,ovarian cancer,40906573,10.1158/1541-7786.MCR-25-0268
+"t the human ortholog, ppp1cc (protein phosphatase 1 catalytic subun",liver cancer,40906558,10.1016/j.celrep.2025.116240
+(rhoa)/rho-associated protein kinase (rock) signaling pathway. stu,melanoma,40906537,10.1002/1878-0261.70114
+tching. rho gtpase-activating protein 29 (arhgap29) is an inhibitor,melanoma,40906537,10.1002/1878-0261.70114
+te cancer harbors an androgen receptor activity-low subpopulation su,prostate cancer,40906535,10.1172/JCI189900
+nal responders had lower her2 protein in pretreatment biopsies. the,prostate cancer,40906535,10.1172/JCI189900
+mmunogenicity for vaccine and protein replacement applications. how,melanoma,40906496,10.1002/adhm.202503771
+"decline in prostate-specific antigen (psa), and/or circulating tum",prostate cancer,40906325,10.1007/s10637-025-01580-1
+failed at least one androgen receptor signaling inhibitor were enro,prostate cancer,40906325,10.1007/s10637-025-01580-1
+nts with her2 3 + and hormone receptor-negative and positive status.,breast cancer,40905870,10.4103/jcrt.jcrt_210_25
+in patients with her2 3 + and hormone receptor-negative and positiv,breast cancer,40905870,10.4103/jcrt.jcrt_210_25
+Cation Transport Proteins,ovarian cancer,40905868,10.4103/jcrt.jcrt_28_25
+"m2 macrophages. finally, the protein expression levels of the key",ovarian cancer,40905868,10.4103/jcrt.jcrt_28_25
